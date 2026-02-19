@@ -1,0 +1,27 @@
+title: "FEA SolidWorks 2025"
+description: "Predict. Print. Break. Compare. A self-paced engineering lesson."
+baseurl: "/fea-solidworks-2025"
+url: ""
+
+solidworks_version: "2025"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - build_docx.py
+  - build_final_binders.py
+  - "*.docx"
+
+defaults:
+  - scope:
+      path: "sections"
+      type: "pages"
+    values:
+      layout: "default"
