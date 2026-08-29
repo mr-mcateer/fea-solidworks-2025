@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nFEA SolidWorks 2025 — complete self-paced lesson site\n\n8-section FEA stress analysis lesson for Crescent Valley HS CTE.\nPredict → Print → Break → Compare. Apple-minimalist design,\nself-paced scaffolding on every section, differentiated with\nSection 8 as advanced extension.\n\nBuilt for Adam Kirsch. Designed for GitHub Pages deployment.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)",
+      "Bash(gh api:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh run list:*)",
+      "WebFetch(domain:help.solidworks.com)",
+      "WebFetch(domain:blogs.solidworks.com)",
+      "WebFetch(domain:www.goengineer.com)",
+      "WebFetch(domain:www.solidsolutions.ie)",
+      "WebFetch(domain:www.javelin-tech.com)"
+    ]
+  }
+}

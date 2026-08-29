@@ -1,0 +1,27 @@
+Subject: FEA Stress Analysis Lesson — Ready to Go
+
+Adam,
+
+Built you a full FEA stress analysis lesson for your juniors. No physics prereqs, starts from CSWA-level skills.
+
+Live site: https://mr-mcateer.github.io/fea-solidworks-2025/
+Repo: https://github.com/mr-mcateer/fea-solidworks-2025
+
+Three deliverables:
+- Live website (student-facing, self-paced)
+- Teacher binder (.docx)
+- Slide presentation (.pptx)
+
+The .docx binders and .pptx are in the Downloads folder with the project files.
+
+Two tracks for differentiation:
+- CORE: Sections 1-7 (standard FEA workflow)
+- ADVANCED: Sections 1-8 (adds the ABS Trap — why FEA alone can mislead you)
+
+The whole thing is self-paced. Students who miss lecture can work through it independently without losing ground.
+
+CNC Kitchen's stress testing video anchors the entire lesson — students reference it from motivation through analysis to validation.
+
+Let me know if anything needs adjusting.
+
+Andrew
