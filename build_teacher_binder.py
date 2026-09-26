@@ -17,7 +17,7 @@ import os
 # ============================================================
 # CONFIGURATION
 # ============================================================
-OUTPUT_PATH = "/Users/andymcateer/Desktop/Claude Projects/01_TEACHING/Kirsch_Engineering/Lessons/FEA_SolidWorks_2025_Teacher_Binder.docx"
+OUTPUT_PATH = "/Users/andymcateer/Desktop/Claude Projects/01_TEACHING/Department/Kirsch_Engineering/Lessons/FEA_SolidWorks_2025_Teacher_Binder.docx"
 
 # Colors
 CHARCOAL = RGBColor(0x2D, 0x2D, 0x2D)

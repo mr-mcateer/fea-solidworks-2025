@@ -850,7 +850,7 @@ for i, step in enumerate(steps):
 # ═══════════════════════════════════════════════════════════════
 # Save
 # ═══════════════════════════════════════════════════════════════
-out_path = "/Users/andymcateer/Desktop/Claude Projects/01_TEACHING/Kirsch_Engineering/Lessons/FEA_SolidWorks_2025_Presentation.pptx"
+out_path = "/Users/andymcateer/Desktop/Claude Projects/01_TEACHING/Department/Kirsch_Engineering/Lessons/FEA_SolidWorks_2025_Presentation.pptx"
 prs.save(out_path)
 print(f"Saved  {out_path}")
 print(f"Slides: {len(prs.slides)}")
